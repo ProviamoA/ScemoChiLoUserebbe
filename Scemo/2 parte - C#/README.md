@@ -3,7 +3,7 @@
 su appsettings.json
 
 ```
-"Server=.\\SQLEXPRESS;Database=Autovelox;User Id = sa; Password = Orbassano2003; MultipleActiveResultSets=true;TrustServerCertificate=True"
+"Server=.\\SQLEXPRESS;Database=Autovelox;User Id = sa; Password = Brother; MultipleActiveResultSets=true;TrustServerCertificate=True"
 ```
 
 
