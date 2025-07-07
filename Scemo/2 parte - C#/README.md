@@ -38,7 +38,7 @@ vedere immagine ![alt text](<funzione per vedere autovelox.png>)
 
 # Cambiare numero di porta
 
-andare su  properties --> launchsettings.json 
+andare su  properties --> launchsettings.json e poi su https 
 
 # Aggiungere link su pagina , necessario creare prima il controller
 
