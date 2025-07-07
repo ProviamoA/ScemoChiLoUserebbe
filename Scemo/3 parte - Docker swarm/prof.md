@@ -66,3 +66,5 @@ docker stack rm node
 
 ## License
 This project is for educational purposes.
+
+## Su trafeik mettere manager
