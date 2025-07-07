@@ -36,7 +36,9 @@ Tasto destro su controller --> aggiungi --> controller --> controller MVC con vi
 
 vedere immagine ![alt text](<funzione per vedere autovelox.png>)
 
+# Cambiare numero di porta
 
+andare su  properties --> launchsettings.json 
 
 # Aggiungere link su pagina , necessario creare prima il controller
 
